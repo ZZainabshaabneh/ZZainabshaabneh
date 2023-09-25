@@ -1,22 +1,13 @@
-<h1 position: relative;
-    font-size: 9mm;
-    letter-spacing: 15px;
-    color: #3f9ab3;
-    text-transform: uppercase;
-    width: 100%;
-    text-align: center;
-    -webkit-box-reflect: below 1px linear-gradient(transparent,#0004);
-    line-height: 0.7em;
-    outline: none;>Hi 👋, I'm Zainab Shaabneh</h1>
+<h1 align="center">Hi 👋, I'm Zainab Shaabneh</h1>
 <h3 align="center">frontend developer from palestine</h3>
 
-- 🌱 I’m currently learning **Photoshop , Graphic Design**
+- 🌱 I’m currently learning **photoshop , Graphic Design**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1p0crn7ABe1qXKC9SYfrvGY3jXdqZWbgo?usp=drive_link](https://drive.google.com/drive/folders/1p0crn7ABe1qXKC9SYfrvGY3jXdqZWbgo?usp=drive_link)
 
 - 📫 How to reach me **zeynepshaabneh32@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/project/64d22e98aea27a4d7b24e489](https://www.overleaf.com/project/64d22e98aea27a4d7b24e489)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1DGFCG67YK6v54Qt6j18R_ezkgjopZ2St](https://drive.google.com/drive/folders/1DGFCG67YK6v54Qt6j18R_ezkgjopZ2St)
 
 - ⚡ Fun fact **I think I'm fun in Animation in CSS**
 
