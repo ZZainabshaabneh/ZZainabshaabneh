@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **zeynepshaabneh32@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Hs-o-K9sC8ANFKY4pi7kZzNMlOe51hYX/view?usp=sharing](https://drive.google.com/file/d/1Hs-o-K9sC8ANFKY4pi7kZzNMlOe51hYX/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1DGFCG67YK6v54Qt6j18R_ezkgjopZ2St?usp=sharing](https://drive.google.com/drive/folders/1DGFCG67YK6v54Qt6j18R_ezkgjopZ2St?usp=sharing)
 
 - ⚡ Fun fact **I think I'm fun in Animation in CSS**
 
