@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **photoshop , Graphic Design**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1p0crn7ABe1qXKC9SYfrvGY3jXdqZWbgo?usp=drive_link](https://drive.google.com/drive/folders/1p0crn7ABe1qXKC9SYfrvGY3jXdqZWbgo?usp=drive_link)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1p0crn7ABe1qXKC9SYfrvGY3jXdqZWbgo?usp=sharing](https://drive.google.com/drive/folders/1p0crn7ABe1qXKC9SYfrvGY3jXdqZWbgo?usp=sharing)
 
 - 📫 How to reach me **zeynepshaabneh32@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1DGFCG67YK6v54Qt6j18R_ezkgjopZ2St](https://drive.google.com/drive/folders/1DGFCG67YK6v54Qt6j18R_ezkgjopZ2St)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Hs-o-K9sC8ANFKY4pi7kZzNMlOe51hYX/view?usp=sharing](https://drive.google.com/file/d/1Hs-o-K9sC8ANFKY4pi7kZzNMlOe51hYX/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm fun in Animation in CSS**
 
