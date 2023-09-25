@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zainab Shaabneh</h1>
-<h3 align="center">frontend developer from palestine</h3>
+<h3 align="center">Frontend Developer from Palestine</h3>
 
-- 🌱 I’m currently learning **photoshop , Graphic Design**
+- 🌱 I’m currently learning **Photoshop , Graphic Design**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1p0crn7ABe1qXKC9SYfrvGY3jXdqZWbgo?usp=sharing](https://drive.google.com/drive/folders/1p0crn7ABe1qXKC9SYfrvGY3jXdqZWbgo?usp=sharing)
 
