@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **zeynepshaabneh32@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1DGFCG67YK6v54Qt6j18R_ezkgjopZ2St?usp=sharing](https://drive.google.com/drive/folders/1DGFCG67YK6v54Qt6j18R_ezkgjopZ2St?usp=sharing)
-
 - ⚡ Fun fact **I think I'm fun in Animation in CSS**
 
 <h3 align="left">Connect with me:</h3>
