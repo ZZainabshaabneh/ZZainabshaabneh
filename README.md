@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zainab Shaabneh</h1>
-<h3 align="center">Frontend Developer from Palestine</h3>
+<h3 align="center">Computer Enginering from Palestine</h3>
 
 - 🌱 I’m currently learning **Photoshop , Graphic Design**
 
